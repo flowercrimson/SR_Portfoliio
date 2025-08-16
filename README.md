@@ -1,3 +1,7 @@
+## [oakcobalt](https://twitter.com/bzpassersby) Security Research
+
+Reach out via [telegram](https://t.me/oakcobalt), or [X](https://x.com/bzpassersby)
+
 ## Ranking
 
 - x5 First place
@@ -62,7 +66,3 @@ See below some highlights of findings:
 | Ajna - Lending and borrowing with no price feeds - 2023.06     | Solidity, ERC-20        | [link](https://audits.sherlock.xyz/contests/75/report)      | - Confirmed findings: 1 Medium - Example Finding: [Medium: Lenders lose interests and pay deposit fees due to no slippage control](https://github.com/sherlock-audit/2023-04-ajna-judging/issues/72)                                                                                                                                                                                                                                 |
 | Iron Bank - Lending and borrowing  - 2023.05                   | Solidity, ERC-20        | [link](https://audits.sherlock.xyz/contests/84/report)      | - Confirmed findings: 3 Medium - Example Finding: [Medium: Wrong Price will be Returned When Asset is PToken for WstETH ](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/220)                                                                                                                                                                                                                                     |
 | Teller - Lending and borrowing  - 2023.04                      | Solidity, ERC-20        | [link](https://audits.sherlock.xyz/contests/62/report)      | - Confirmed findings: 1 Medium - Example Finding: [Medium: Premature Liquidation When a Borrower Pays early](https://github.com/sherlock-audit/2023-03-teller-judging/issues/494)                                                                                                                                                                                                                                                    |
-
-## Contacts
-
-Reach out via [telegram](https://t.me/oakcobalt), or [X](https://x.com/bzpassersby)
