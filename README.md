@@ -1,10 +1,8 @@
-# [oakcobalt](https://twitter.com/bzpassersby) Security Research Portfolio
-
 ## Ranking
 
 - x5 First place
 - x19 Top 3
-- #6 on Code4Rena 2024
+- #6 on Code4Rena 2024 
 
 
 ## Audit Experience
@@ -65,5 +63,6 @@ See below some highlights of findings:
 | Iron Bank - Lending and borrowing  - 2023.05                   | Solidity, ERC-20        | [link](https://audits.sherlock.xyz/contests/84/report)      | - Confirmed findings: 3 Medium - Example Finding: [Medium: Wrong Price will be Returned When Asset is PToken for WstETH ](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/220)                                                                                                                                                                                                                                     |
 | Teller - Lending and borrowing  - 2023.04                      | Solidity, ERC-20        | [link](https://audits.sherlock.xyz/contests/62/report)      | - Confirmed findings: 1 Medium - Example Finding: [Medium: Premature Liquidation When a Borrower Pays early](https://github.com/sherlock-audit/2023-03-teller-judging/issues/494)                                                                                                                                                                                                                                                    |
 
+## Contacts
 
-
+Reach out via [telegram](https://t.me/oakcobalt), or [X](https://x.com/bzpassersby)
