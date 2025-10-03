@@ -42,7 +42,7 @@ See below a curated list of public contest or private audits:
 - 2025.03: Silo Finance on Code4rena ([Rank No.4](https://code4rena.com/audits/2025-03-silo-finance) [Report](https://code4rena.com/reports/2025-03-silo-finance))
 - 2025.05: Virtuals on Code4rena ([Rank No.2](https://code4rena.com/audits/2025-04-virtuals-protocol) [Report](https://code4rena.com/reports/2025-04-virtuals-protocol))
 - 2025.06: CircuitDao on Cantina ([Rank No.5](https://cantina.xyz/code/7d650b99-8a40-49d1-9b65-2b060accfbb7/overview/leaderboard))
-
+- 2025.08: Gondi Protocol Loan Validator([Report](https://github.com/zenith-security/reports/blob/main/reports/Gondi%20-%20Zenith%20Audit%20Report.pdf))
 
 
 ## Findings
